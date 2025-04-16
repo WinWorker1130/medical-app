@@ -1,0 +1,427 @@
+
+=== PAGE 1 START ===
+DEMOGRAPHICS SHEET 
+ 
+Case Name: 
+Theys, Tristan vs. Kathryn “Katie” DiMattia 
+Case Email: 
+TristanTheys@jlcla.filevineapp.com  
+Liability: 
+Premises (Dog Bite Statute) 
+DOL: 
+October 7, 2021 
+SOL: 
+Complaint filed April 3, 2023 
+Client: 
+Tristan Theys 
+Address: 
+20134 Leadwell Street 
+Apartment 210 
+Winnetka, California 91306 
+Phone Number: 
+(805) 427-4033 
+Date of Birth: 
+May 5, 1985 
+Defendant(s): 
+Kathryn DiMattia 
+Insurance Company: 
+Travelers Insurance Company 
+PO Box 650293 
+Dallas, Texas 75265-0293 
+Claim No.: IQX4048 
+Adjuster: 
+Daniel Hansmeier, CPCU, AIC-M 
+(909) 612-3246 
+dhansmei@travelers.com   
+Policy Limits: 
+$500,000.00 
+Injuries: 
+Left Forearm Pain;  
+Tingling and numbness in L forearm; 
+Complaints of nerve damage 
+ 
+
+=== PAGE 1 END ===
+
+=== PAGE 2 START ===
+KAISER PERMANENTE
+Theys, Tristan
+MRN: 000024092166, DOB: 5/5/1985, Sex: M
+10/07/2021 - ED in WHED
+Visit Information 
+Location 
+Name
+Address
+Phone
+WOODLAND HILLS MEDICAL 
+CENTER L
+5601 DE SOTO AVE
+Woodland Hills CA 91367-6701
+719-2000
+Reason for Visit 
+·
+ANIMAL BITE
+Vitals 
+Date/Time
+Temp
+Pulse
+Resp
+BP
+SpO2
+Weight
+10/07/21 0944
+97.9 °F (36.6 °C)
+56
+18
+108/69
+100 %
+210 lb 1.6 oz 
+(95.3 kg)
+Treatment Team 
+Provider
+Service
+Role
+Specialty
+From
+To
+Yoshioka, Isamu 
+Edward (M.D.), M.D.
+—
+Admitting Provider
+Emergency Medicine
+—
+—
+Yoshioka, Isamu 
+Edward (M.D.), M.D.
+—
+Attending Provider
+Emergency Medicine
+10/07/21 1047
+—
+Canseco, Antonia 
+Luisa (R.N.), R.N.
+—
+Registered Nurse 
+GENERAL, OTHER
+10/07/21 1025
+—
+Yoshioka, Isamu 
+Edward (M.D.), M.D.
+—
+Physician 
+Emergency Medicine 
+10/07/21 1021
+—
+Events 
+Admission Information 
+Arrival Date/Time:
+10/07/2021 0931
+Admit Date/Time:
+10/07/2021 1012
+IP Adm. Date/Time:
+Admission Type:
+Point of Origin:
+Admit Category:
+Means of Arrival:
+Primary Service:
+Emergency 
+Medicine
+Secondary Service:
+N/A
+Transfer Source:
+Service Area:
+SOUTHERN 
+CALIFORNIA 
+REGION
+Unit:
+WHED
+Admit Provider:
+Yoshioka, Isamu 
+Edward (M.D.), M.D.
+Attending Provider:
+Yoshioka, Isamu 
+Edward (M.D.), M.D.
+Referring Provider:
+Discharge Information 
+Discharge Date/Time
+Discharge Disposition
+Discharge Destination
+Discharge Provider
+Unit
+10/07/2021 1146
+Other - Not Listed 
+Elsewhere
+None
+Yoshioka, Isamu Edward 
+(M.D.), M.D.
+WHED
+Level of Service 
+Level of Service
+ED VISIT LEVEL 4
+Chief Complaint 
+Visit Diagnosis 
+Name
+Code
+Is ED?
+OPEN DOG BITE OF LEFT FOREARM, INIT 
+(primary)
+S51.852A, W54.0XXA
+Yes
+Admission at 10/7/2021 1012 
+Unit: WHED
+Room: E308
+Bed: 08
+Patient class: Emergency
+Service: Emergency Medicine
+Printed on 3/10/22  3:33 PM
+Page  1
+
+=== PAGE 2 END ===
+
+=== PAGE 3 START ===
+KAISER PERMANENTE
+Theys, Tristan
+MRN: 000024092166, DOB: 5/5/1985, Sex: M
+10/07/2021 - ED in WHED (continued)
+Events (continued) 
+Medication Administrations 
+Transfer Out at 10/7/2021 1015 
+Unit: WHED
+Room: E308
+Bed: 08
+Patient class: Emergency
+Service: Emergency Medicine
+Transfer In at 10/7/2021 1015 
+Unit: WHED
+Room: E304
+Bed: 04
+Patient class: Emergency
+Service: Emergency Medicine
+Transfer Out at 10/7/2021 1145 
+Unit: WHED
+Room: E304
+Bed: 04
+Patient class: Emergency
+Service: Emergency Medicine
+Transfer In at 10/7/2021 1145 
+Unit: WHED
+Room: WNDC
+Bed: 01
+Patient class: Emergency
+Service: Emergency Medicine
+Discharge at 10/7/2021 1146 
+Unit: WHED
+Room: WNDC
+Bed: 01
+Patient class: Emergency
+Service: Emergency Medicine
+Flu Vaccine QS 2021-22 (6 mos up) PF IM Syg 0.5 mL (FLULAVAL QUAD) [1440329735] 
+Ordering Provider: Yoshioka, Isamu Edward (M.D.), M.D.
+Status: Discontinued (Past End Date/Time), Reason: Patient 
+Discharged
+Ordered On: 10/07/21 0938
+Starts/Ends: 10/07/21 0945 - 10/07/21 1546
+Dose (Remaining/Total): 1 Each (1/1)
+Route: intraMUSCULAR
+Frequency: ONE TIME
+Rate/Duration: — / —
+Admin Instructions: 1. Give as scheduled on admission or alternate 
+date and time ordered by the provider using the "Given" MAR 
+action. If it is not possible to administer the vaccine at the 
+scheduled date and time, the nurse or pharmacist may reschedule 
+the administration for up to 24 hours later. The nurse will give the 
+vaccine BEFORE discharge if patient will leave prior to scheduled 
+administration. Provide current Vaccine Information Statement 
+(VIS) to patient prior to vaccination and document in Immunization 
+Information box on MAR. 
+ 
+2. If the patient or caregiver refuses the vaccine, document using 
+the "Refused" MAR action with patient's stated reason for refusal in 
+the comment and notify physician of refusal. Confirm refusal before 
+discharge.
+ 
+3.  If the patient has already received the influenza vaccine this 
+season which is not yet documented in Immunizations, document a 
+HISTORICAL administration in Immunizations. 
+Notify the physician to discontinue the flu vaccine order. 
+ 
+4. If any of the following contraindications exist, notify the physician 
+of the contraindication to place orders for both "Do Not Administer 
+Flu Vaccine" order and "Discontinue" flu vaccine order.
+ 
+Patient has allergy/sensitivity to influenza vaccine including Guillain 
+Barre Syndrome within 6 weeks of getting vaccine (confirm 
+documentation in Allergies)
+Patient has had a bone marrow transplant within the last 6 months. Patient will have an organ transplant during this hospitalization
+ 
+5. If the patient has a condition or order specifying that IM 
+injections are contraindicated, confirm with physician that the 
+vaccine should be held. Document using the "Held" MAR action 
+with reason. Confirm the contraindication still applies upon 
+discharge.
+Timestamps
+Action
+Dose / Rate / Duration
+Route / Site / Linked Line
+Printed on 3/10/22  3:33 PM
+Page  2
+Other Information
+
+=== PAGE 3 END ===
+
+=== PAGE 4 START ===
+KAISER PERMANENTE
+Theys, Tristan
+MRN: 000024092166, DOB: 5/5/1985, Sex: M
+10/07/2021 - ED in WHED (continued)
+Medication Administrations (continued) 
+ED Provider Note 
+HPI
+TRISTAN THEYS
+MRN: 000024092166
+DOB: 5/5/1985
+PRIMARY CARE PROVIDER: Slingenberg, Evert-Jan Mh (M.D.)
+CHIEF COMPLAINT: ANIMAL BITE
+TRIAGE NURSE 
+PRESENTING HISTORY
+Information provided by: PATIENT
+History of Present Illness: 2 small lacerations, bleeding controlled.
+General Appearance-DistressLevel: MILD
+Industrial Related: NO
+Initial VS:
+BP: 108/69 / Pulse: 56 / Temp: 97.9 °F (36.6 °C) / Resp: 18 / SpO2: 100 % 
+History was provided by patient
+36 year old RHD male presenting with dog bite to left forearm.  Patient reports that he was bitten by his 
+friend's Siberian husky PTA.  Sustained bite wounds to left forearm.  No other injury.  No numbness/tingling, 
+focal weakness.
+PAST MEDICAL HISTORY:
+Denies
+MEDICINE:
+No outpatient medications have been marked as taking for the 10/7/21 
+encounter (Hospital Encounter).
+ALLERGY:
+Patient has no known allergies.
+SOCIAL HISTORY: 
+ED Provider Notes by Yoshioka, Isamu Edward (M.D.), M.D. at 10/7/2021 1032 
+Author: Yoshioka, Isamu Edward (M.D.), 
+M.D.
+Service: —
+Author Type: Physician
+Filed: 10/7/2021  7:18 PM
+Date of Service: 10/7/2021 10:32 AM
+Creation Time: 10/7/2021 10:32 AM
+Status: Signed
+Editor: Yoshioka, Isamu Edward (M.D.), M.D. (Physician)
+Due 10/07/21 0945
+Scheduled: 10/07/21 
+0938
+Due
+—
+—
+—
+Printed on 3/10/22  3:33 PM
+Page  3
+
+=== PAGE 4 END ===
+
+=== PAGE 5 START ===
+KAISER PERMANENTE
+Theys, Tristan
+MRN: 000024092166, DOB: 5/5/1985, Sex: M
+10/07/2021 - ED in WHED (continued)
+ED Provider Note (continued) 
+Social History
+Socioeconomic History
+• Marital status:
+Single/Never Married
+Spouse name:
+No social history on file - go to History activity and enter 
+appropriate social history
+• Number of children:
+No social history on file - go to History activity and enter 
+appropriate social history
+• Years of education:
+No social history on file - go to History activity and enter 
+appropriate social history
+• Highest education level:
+No social history on file - go to History activity and enter 
+appropriate social history
+Occupational History
+• No social history on file - go to History activity and enter appropriate social history
+Tobacco Use
+• Smoking status:
+Never Smoker
+• Smokeless tobacco:
+Never Used
+Vaping Use
+• Vaping Use:
+Never used
+Substance and Sexual Activity
+• Alcohol use:
+Never
+• Drug use:
+Never
+• Sexual activity:
+No social history on file - go to History activity and enter 
+appropriate social history
+Other Topics
+Concern
+• No social history on file - go to History activity and enter appropriate social history
+Social History Narrative
+• No social history on file - go to History activity and enter appropriate social history
+ 
+Review of Systems 
+Constitutional: Negative.  
+Musculoskeletal: Negative for arthralgias. 
+Skin: Positive for wound. Negative for color change and rash. 
+Neurological: Negative for weakness and numbness. 
+Physical Exam
+Vitals and nursing note reviewed. 
+Constitutional:  
+   General: He is not in acute distress.
+   Appearance: Normal appearance. He is not ill-appearing. 
+HENT: 
+   Head: Normocephalic and atraumatic. 
+   Right Ear: External ear normal. 
+   Left Ear: External ear normal. 
+   Nose: Nose normal. 
+Eyes: 
+Printed on 3/10/22  3:33 PM
+Page  4
+
+=== PAGE 5 END ===
+
+=== PAGE 6 START ===
+KAISER PERMANENTE
+Theys, Tristan
+MRN: 000024092166, DOB: 5/5/1985, Sex: M
+10/07/2021 - ED in WHED (continued)
+ED Provider Note (continued) 
+   Extraocular Movements: Extraocular movements intact. 
+Cardiovascular: 
+   Pulses: Normal pulses. 
+Pulmonary: 
+   Effort: Pulmonary effort is normal. No respiratory distress. 
+Musculoskeletal: 
+   Left forearm: Laceration and tenderness present. No bony tenderness. 
+   Left wrist: No swelling, deformity or tenderness. Normal range of motion. Normal pulse. 
+   Left hand: No tenderness. Normal range of motion. Normal sensation. Normal pulse. 
+     Arms:
+   Cervical back: Normal range of motion. 
+Skin:
+   General: Skin is warm and dry. 
+   Capillary Refill: Capillary refill takes less than 2 seconds. 
+   Findings: No erythema. 
+Neurological: 
+   General: No focal deficit present. 
+   Mental Status: He is alert and oriented to person, place, and time. 
+   Sensory: Sensation is intact. 
+Psychiatric:    
+   Mood and Affect: Mood normal.    
+   Behavior: Behavior normal. 
+ 
+________________________________________________________________
+Printed on 3/10/22  3:33 PM
+Page  5
+
+=== PAGE 6 END ===
